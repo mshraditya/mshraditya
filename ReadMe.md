@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a passionate and motivated B.Tech student at Jadavpur University, currently building strong foundations in C++ programming (data structures, algorithms, and problem-solving) while also exploring web development (HTML, CSS, JavaScript, MERN stack).<br> <br>Beyond coding, I draw inspiration from philosophy and continuous self-improvement, which helps me stay disciplined, curious, and adaptable. At 20, I’m eager to collaborate on projects, learn from experienced mentors, and contribute to impactful tech solutions.<br>
+I love coding .<br>
 
 
 ## 🌐 Socials:
