@@ -1,2 +1,2 @@
 # 💫 About Me:
-loves what I am Doing
+Do what I love 
